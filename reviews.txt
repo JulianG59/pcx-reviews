@@ -1,7 +1,7 @@
 Wardogs | Mora
 Wardogs | Wock
 Wardogs | wallealv
-Counter Strike 2 | TheoSycrat
+Icarus CS2 External | TheoSycrat
 Apex | sunk
 Wardogs | Crimson
 Apex | Shade
@@ -12,5 +12,4 @@ Wardogs | Hamstermeme
 Wardogs | Soggra
 Wardogs | JonoSx
 Wardogs | Thaddel
-Icarus CS2 External | Insomnia59
-Arc Raiders | Insomnia59
+Wardogs | MultiMan
