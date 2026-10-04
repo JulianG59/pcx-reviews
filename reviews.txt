@@ -30,3 +30,4 @@ Counter Strike 2 | John_Pork
 CS2 Inventory Changer | redbull67
 CS2 Inventory Changer | xAiimz1337
 CS2 Inventory Changer | Sweyy
+Wardogs | uid
