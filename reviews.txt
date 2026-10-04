@@ -32,3 +32,4 @@ CS2 Inventory Changer | xAiimz1337
 CS2 Inventory Changer | Sweyy
 Wardogs | uid
 CS2 Inventory Changer | pguest
+DayZ | hatenino
