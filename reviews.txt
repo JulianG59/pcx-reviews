@@ -35,3 +35,4 @@ CS2 Inventory Changer | pguest
 DayZ | hatenino
 Counter Strike 2 | MultiMan
 Wardogs | CMO
+Wardogs | Sweyy
