@@ -43,3 +43,4 @@ Wardogs | meximus
 Wardogs | ywf
 Wardogs | Luxuria
 Wardogs | redgunman
+CS2 Inventory Changer | naughty
