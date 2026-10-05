@@ -47,3 +47,4 @@ CS2 Inventory Changer | naughty
 Wardogs | starstruck
 Counter Strike 2 | deathly
 Wardogs | aLpha
+CS2 Inventory Changer | MultiMan
