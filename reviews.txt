@@ -56,3 +56,4 @@ Apex | MSVII
 Counter Strike 2 | MSVII
 Wardogs | 1337xLeague
 Wardogs | QsOnly
+DayZ | naughty
