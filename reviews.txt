@@ -60,3 +60,4 @@ DayZ | naughty
 Wardogs | plutouwu
 Wardogs | Siplex
 Wardogs | elemeNt
+Counter Strike 2 | elemeNt
