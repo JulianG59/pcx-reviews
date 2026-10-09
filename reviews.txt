@@ -64,3 +64,4 @@ Counter Strike 2 | elemeNt
 CS2 Inventory Changer | Thick
 Wardogs | Awaity
 Wardogs | Carlo
+Wardogs | cool
