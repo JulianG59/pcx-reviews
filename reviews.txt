@@ -81,3 +81,4 @@ Wardogs | Jace
 Wardogs | remidys
 Wardogs | Se4
 Counter Strike 2 | Slyt
+CS2 Inventory Changer | Climber
