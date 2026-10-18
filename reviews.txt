@@ -96,3 +96,4 @@ CS2 Inventory Changer | jannes
 Wardogs | banjo
 Counter Strike 2 | fanccy
 Counter Strike 2 | AlanTian1337
+DayZ | zuzu
